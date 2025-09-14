@@ -1,1 +1,1 @@
-# ai-sampe-project
+# ai-sample-project
